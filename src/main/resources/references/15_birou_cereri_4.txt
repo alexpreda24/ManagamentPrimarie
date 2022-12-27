@@ -1,4 +1,4 @@
-Utilizatorul de tip pensionar nu poate inainta o cerere de tip: inregistrare venit salarial
+Utilizatorul de tip pensionar nu poate inainta o cerere de tip inregistrare venit salarial
 pensionar - cereri in birou:
 5 - 10-Jan-2022 10:01:03 - Subsemnatul Ana Anescu, va rog sa-mi aprobati urmatoarea solicitare: inregistrare cupoane de pensie
 5 - 10-Jan-2022 10:01:05 - Subsemnatul Ana Anescu, va rog sa-mi aprobati urmatoarea solicitare: inregistrare cupoane de pensie
